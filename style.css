@@ -1,0 +1,30 @@
+body {
+}
+
+.navbarlink
+{
+	color: #aa6ed8;
+}
+
+#banner
+{
+}
+
+ul.nav li a, ul.nav li a:visited {
+    color: #be4fff !important;
+}
+
+ul.nav li a:hover, ul.nav li a:active {
+    color: #be4fff !important;
+}
+
+ul.nav li.active a {
+    color: #be4fff !important;
+}
+
+@media (min-width: 768px) {
+    .nav {
+        display: inline-block;
+        float: none;
+        vertical-align: top;
+    }
